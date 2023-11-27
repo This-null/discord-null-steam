@@ -1,0 +1,22 @@
+{
+  "name": "null-steam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "steam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mustafa Gökkaya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.14.1",
+    "fetch": "1.1.0",
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^4.0.0-beta.4"
+  },
+    "repository": {
+    "url": "https://github.com/This-null/discord-null-steam"
+  }
+}
