@@ -2,9 +2,8 @@
 
 - Selam steam indirimlerini kaçırmamak mı istiyorsunuz.
 - Anlık steam indirimlerini takip edit belirlemiş olduğunuz kanala oyun infosu atıyor.
-- Discord sunucusu için [Tıkla](https://skydev.com.tr/discord).
 - Website için [Tıkla](https://skydev.com.tr)
-- Yada discord.gg/themis yazıp gel.
+
   
 # Örnek Oyun Resmi
 ![image](https://github.com/This-null/discord-null-steam/assets/60463845/df2e1d3f-1100-4210-a3bc-3f9fe8d19bfe)
